@@ -1,4 +1,4 @@
-# arc-01-my_ngram
+# Ngram game
 <div class="card-block">
 <div class="row">
 <div class="col tab-content">
